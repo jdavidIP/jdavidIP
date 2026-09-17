@@ -49,19 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdavidIP&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdavidIP&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdavidIP&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💌 [jdavidip2022@gmail.com](mailto:jdavidip2022@gmail.com)
