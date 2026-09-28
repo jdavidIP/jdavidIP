@@ -19,7 +19,7 @@
 
 - 🎓 B.Comp.Sc. (Honours, Co-op) — With Distinction, major in Cybersecurity — Conestoga College, 2021–2025
 - 💼 Most recently: Junior Software Developer at **Kraken Sense** — full-stack work across React, Node.js, FastAPI, and PostgreSQL, with deployments on GCP (Cloud Run, Cloud SQL)
-- 🌱 Studying for the **AWS Certified Cloud Practitioner**
+- 🌱 AWS Certified (AWS Certified Cloud Practitioner, AWS AI Practitioner)
 - 🔍 Actively looking for full-stack / backend developer roles (also open to QA/testing)
 - 🧩 Interested in distributed systems, applied security, and using AI tooling (Claude, Copilot, MCP) as part of a real dev workflow — not just autocomplete
 
